@@ -21,6 +21,8 @@ let gitDefinition = 'Git is a version control system software that is used to tr
 
 //CODE HERE
 
+let gitHubDefinition = 'GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code.'
+
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
