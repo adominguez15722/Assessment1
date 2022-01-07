@@ -51,6 +51,8 @@ let gitCloneDefinition = 'This command will target an existing repository and cr
 
 //CODE HERE
 
+let gitStatusDefinition = 'This command will display the state of the working directory. It lets you see which changes have been staged, which have not, and which files are not being tracked by Git.';
+
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
