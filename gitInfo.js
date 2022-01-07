@@ -64,6 +64,9 @@ let gitStatusDefinition = 'This command will display the state of the working di
 
 //CODE HERE
 
+let gitAddDefinition = 'This command will add the files to be tracked by Git.';
+let gitAddCode = 'git add .';
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
