@@ -6,6 +6,7 @@ const reader = readline.createInterface({
 });
 
 let mySecret = 'Password123';
+let maxAttempts = 3;
 
 reader.question("Welcome to the password validator tool! What is your password?", function(input){
 	tokens = input.split(' ');
@@ -22,10 +23,12 @@ reader.question("Welcome to the password validator tool! What is your password?"
         console.log("You're never going to remember this password, are you?")
   
     }   else {
-        console.log('Failure. Password is not long enough.')
-    };
+        console.log('Failure is not an option!!')
+            prompt(reader.question);
+        };
         
 
+//Currently I'm trying to return the user to the initial prompt if they do not succeed in putting a long enough password.
 	
 	
 
