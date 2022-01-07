@@ -15,9 +15,12 @@ reader.question("Welcome to the password validator tool! What is your password?"
     if (password === mySecret){
         console.log('Congratulations!! You guessed my password!')
 
-    }   else if (password.length >= 10)  {
+    }   else if (password.length >= 10 && password.length < 20)  {
         console.log('Success. Password is long enough!')
    
+    }   else if(password.length >= 20) {
+        console.log("You're never going to remember this password, are you?")
+  
     }   else {
         console.log('Failure. Password is not long enough.')
     };
