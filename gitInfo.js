@@ -78,6 +78,8 @@ let gitAddCode = 'git add .';
 
 //CODE HERE
 
+let gitCommitDefinition = 'This command will take a snapshot of the files that you are tracking.';
+let gitCommitCode = 'git commit -m "initial commit"';
 
 //////////////////PROBLEM 8////////////////////
 /*
