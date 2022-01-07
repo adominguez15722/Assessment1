@@ -41,6 +41,8 @@ let gitInitDefinition = 'This command will initialize a local repo in the folder
 
 //CODE HERE
 
+let gitCloneDefinition = 'This command will target an existing repository and create a clone, or copy of the target repository.';
+
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
