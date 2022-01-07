@@ -88,3 +88,5 @@ let gitCommitCode = 'git commit -m "initial commit"';
 */
 
 //CODE HERE
+
+let gitPushDefinition = 'This command will upload a local repo to a remote or global repo.';
