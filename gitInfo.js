@@ -11,6 +11,8 @@
 
 //CODE HERE
 
+let gitDefinition = 'Git is a version control system software that is used to track changes in any set of files.'
+
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
