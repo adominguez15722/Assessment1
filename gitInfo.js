@@ -11,7 +11,7 @@
 
 //CODE HERE
 
-let gitDefinition = 'Git is a version control system software that is used to track changes in any set of files.'
+let gitDefinition = 'Git is a version control system software that is used to track changes in any set of files.';
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -21,7 +21,7 @@ let gitDefinition = 'Git is a version control system software that is used to tr
 
 //CODE HERE
 
-let gitHubDefinition = 'GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code.'
+let gitHubDefinition = 'GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code.';
 
 //////////////////PROBLEM 3////////////////////
 /*
@@ -30,6 +30,8 @@ let gitHubDefinition = 'GitHub is a website and cloud-based service that helps d
 */
 
 //CODE HERE
+
+let gitInitDefinition = 'This command will initialize a local repo in the folder that you are currently in.';
 
 //////////////////PROBLEM 4////////////////////
 /*
